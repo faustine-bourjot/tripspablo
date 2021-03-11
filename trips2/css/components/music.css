@@ -1,0 +1,9 @@
+.music p{ color: red;
+
+
+	}
+.music audio {
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+}
